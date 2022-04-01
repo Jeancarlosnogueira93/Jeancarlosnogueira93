@@ -1,4 +1,4 @@
-## Olá eu sou a Jean Carlos Nogueira, rescem formado na Tecnologo Gestão de Tecnologia da Informação!
+## Olá eu sou a Jean Carlos Nogueira, recém formado na Tecnologo Gestão de Tecnologia da Informação!
 
 <div align="center">
   <a href="https://github.com/Jeancarlosnogueira93">
