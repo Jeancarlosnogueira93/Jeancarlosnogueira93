@@ -1,4 +1,6 @@
-## Olá eu sou a Jean Carlos Nogueira, recém formado na Tecnologo Gestão de Tecnologia da Informação!
+## Olá! Sou Jean Carlos Nogueira, profissional de TI atuando desde 2023 na área de sustentação de sistemas.
+## Tenho experiência em sistemas legados, com foco principal na área financeira, especialmente no módulo de faturamento.
+## Apaixonado por tecnologia, resolução de problemas e pela manutenção de sistemas que impactam diretamente o negócio.
 
 <div align="center">
   <a href="https://github.com/Jeancarlosnogueira93">
