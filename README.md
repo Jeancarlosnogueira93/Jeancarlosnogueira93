@@ -1,12 +1,5 @@
-## Olá! Sou Jean Carlos Nogueira, profissional de TI atuando desde 2023 na área de sustentação de sistemas.
-## Tenho experiência em sistemas legados, com foco principal na área financeira, especialmente no módulo de faturamento.
-## Apaixonado por tecnologia, resolução de problemas e pela manutenção de sistemas que impactam diretamente o negócio.
+## Olá! Sou Jean Carlos Nogueira, profissional de TI atuando desde 2023 na área de sustentação de sistemas.Tenho experiência em sistemas legados, com foco principal na área financeira, especialmente no módulo de faturamento. Apaixonado por tecnologia, resolução de problemas e pela manutenção de sistemas que impactam diretamente o negócio.
 
-<div align="center">
-  <a href="https://github.com/Jeancarlosnogueira93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeancarlosnogueira93&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeancarlosnogueira93&layout=compact&langs_count=7&theme=merko"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
